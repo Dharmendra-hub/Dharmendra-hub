@@ -2,7 +2,7 @@
 
 
 <h3>
-    <i>- I'm a Full Stack Web Developer just coding in JavaScript | PHP | WordPress | Node | React | Shopify | GraphQL | REST API's and learning new tech and having some :coffee:</i>
+    <i>- I'm a Full Stack Web Developer just coding in | PHP | JavaScript | WordPress | Node | React | Shopify | GraphQL | REST API's and learning new tech and having some :coffee:</i>
 </h3>
 <br>
 
