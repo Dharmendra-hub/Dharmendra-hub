@@ -13,9 +13,7 @@
     <a href="https://www.linkedin.com/in/hi2dharmendra/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hi2dharmendra/" />
     </a>
-```markdown
-![](https://komarev.com/ghpvc/?username=Dharmendra-hub&color=brightgreen)
-```
+
 </p>
 <br>
 
@@ -26,3 +24,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-hub&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Dharmendra-hub" height="139" />
 </p>
 <br>
+
+```markdown
+![](https://komarev.com/ghpvc/?username=Dharmendra-hub&color=brightgreen)
+```
