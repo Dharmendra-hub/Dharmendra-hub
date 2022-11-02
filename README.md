@@ -13,9 +13,7 @@
     <a href="https://www.linkedin.com/in/hi2dharmendra/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hi2dharmendra/" />
     </a>
-    <!-- <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
-    </a> -->
+    ![](https://komarev.com/ghpvc/?username=Dharmendra-hub&color=brightgreen)
 </p>
 <br>
 
