@@ -25,4 +25,4 @@
 </p>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/[dharmendra-hub])
+https://komarev.com/ghpvc/?username=Dharmendra-hub&color=brightgreen
