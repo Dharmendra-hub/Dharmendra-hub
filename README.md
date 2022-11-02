@@ -25,4 +25,4 @@
 </p>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/[Dharmendra-hub])
+![Profile views](https://gpvc.arturio.dev/[dharmendra-hub])
