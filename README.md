@@ -25,6 +25,4 @@
 </p>
 <br>
 
-```markdown
-![](https://komarev.com/ghpvc/?username=Dharmendra-hub&color=brightgreen)
-```
+![Profile views](https://gpvc.arturio.dev/[Dharmendra-hub])
