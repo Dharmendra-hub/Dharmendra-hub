@@ -13,9 +13,9 @@
     <a href="https://www.linkedin.com/in/hi2dharmendra/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hi2dharmendra/" />
     </a>
-    ```markdown
-    ![](https://komarev.com/ghpvc/?username=Dharmendra-hub&color=brightgreen)
-    ```
+```markdown
+![](https://komarev.com/ghpvc/?username=Dharmendra-hub&color=brightgreen)
+```
 </p>
 <br>
 
